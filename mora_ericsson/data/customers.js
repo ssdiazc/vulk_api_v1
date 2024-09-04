@@ -1,0 +1,15 @@
+module.exports = [
+  { documentNumber: "79822696", documentType: "1" },
+  { documentNumber: "1000766906", documentType: "1" },
+  { documentNumber: "1004686137", documentType: "1" },
+  { documentNumber: "1007389190", documentType: "1" },
+  { documentNumber: "1012326518", documentType: "1" },
+  { documentNumber: "1016003275", documentType: "1" },
+  { documentNumber: "1022379372", documentType: "1" },
+  { documentNumber: "1026283525", documentType: "1" },
+  { documentNumber: "1004441387", documentType: "1" },
+  { documentNumber: "98708353", documentType: "1" },
+  { documentNumber: "46367118", documentType: "1" },
+  { documentNumber: "910913", documentType: "4" },
+  { documentNumber: "910908", documentType: "4" },
+];

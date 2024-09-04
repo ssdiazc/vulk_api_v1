@@ -1,0 +1,14 @@
+{
+  "name": "rest_app_vulkapi_v1",
+  "version": "1.0.0",
+  "description": "App to send multiple request to URI",
+  "main": "root.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ssdc",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
